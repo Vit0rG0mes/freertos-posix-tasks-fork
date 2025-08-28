@@ -17,3 +17,13 @@ A aplicação implementa a manipulação de tarefas baseadas no Kernel do FreeRT
 `$ ./build/tasks-posix-c`
 
 ## Done!
+
+Instalação realizada do FreeRTOS, mas não consegui buildar, pelos erros a seguir:
+
+![Print de execução](prints/print1.png)
+
+---
+
+**Nome:** Vitor Manuel Gomes Vasconcelos
+
+**Matricula:** 539786
